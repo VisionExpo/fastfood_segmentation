@@ -12,7 +12,7 @@ from src.visualization.plot_clusters import plot_elbow, plot_clusters
 
 def main():
     # Step 1: Load dataset
-    df = load_fastfood_data("data/fastfood_dataset.csv")
+    df = load_fastfood_data("data\mcdonalds.csv")
 
     # Step 2: Preprocess
     X = preprocess_data(df)
