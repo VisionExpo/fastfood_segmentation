@@ -140,4 +140,4 @@ MIT License
 
 ## 📞 Contact
 For questions or suggestions, open an issue or contact:
-**Vishal Gorule** – [gorulevishal984@gmail.com] – [Vision Expo]
+**Vishal Gorule** – [gorulevishal984@gmail.com] – [Vision Expo](https://github.com/VisionExpo)
